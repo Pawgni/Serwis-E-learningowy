@@ -35,10 +35,19 @@
 
 ## Zrzuty Ekranu
 
+**Strona główna**
 ![Strona główna](Screenshots/s1.png)
+
+**Kurs Java**
 ![Kurs Java](Screenshots/s2.png)
+
+**Kurs ASP.net**
 ![Kurs ASP.net](Screenshots/s3.png)
+
+**Kurs Python**
 ![Kurs Python](Screenshots/s4.png)
+
+**Dodawanie komentarzy i ocen**
 ![Dodawanie komentarzy i ocen](Screenshots/s5.png)
 
 ## Instalacja
