@@ -36,7 +36,7 @@
 ## Zrzuty Ekranu
 
 ![Strona główna](Screenshots/s1.png)
-![Kurs Java](screenshots/s2.png)
+![Kurs Java][(https://github.com/Pawgni/Serwis-E-learningowy/blob/main/Screenshots/s2.png?raw=true))](https://github.com/Pawgni/Serwis-E-learningowy/blob/main/Screenshots/s2.png?raw=true)
 ![Kurs ASP.net](screenshots/s3.png)
 ![Kurs Python](screenshots/s4.png)
 ![Dodawanie komentarzy i ocen](screenshots/s5.png)
