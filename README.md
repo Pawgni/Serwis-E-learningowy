@@ -37,9 +37,9 @@
 
 ![Strona główna](Screenshots/s1.png)
 ![Kurs Java](Screenshots/s2.png)
-![Kurs ASP.net]([screenshots/s3.png](https://github.com/Pawgni/Serwis-E-learningowy/blob/main/Screenshots/s3.png?raw=true))
-![Kurs Python](screenshots/s4.png)
-![Dodawanie komentarzy i ocen](screenshots/s5.png)
+![Kurs ASP.net](Screenshots/s3.png)
+![Kurs Python](Screenshots/s4.png)
+![Dodawanie komentarzy i ocen](Screenshots/s5.png)
 
 ## Instalacja
 Aby uruchomić projekt lokalnie, wykonaj następujące kroki:
