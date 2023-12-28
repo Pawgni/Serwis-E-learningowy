@@ -37,6 +37,7 @@
 
 **Strona główna**
 ![Strona główna](Screenshots/s1.png)
+*Strona główna*
 
 **Kurs Java**
 ![Kurs Java](Screenshots/s2.png)
