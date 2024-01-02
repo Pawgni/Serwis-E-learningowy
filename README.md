@@ -81,3 +81,4 @@ Do zrobienia:
 
 ## Kontakt
 Stworzone przez [@Pawni](https://github.com/Pawgni)
+                [@DawidKrejer](https://github.com/DawidKrejer
